@@ -1,1 +1,3 @@
-# curriculo
+# Sobre mim
+
+Olá, meu nome é Victor Hugo Concolato Neves e sou estudante do segundo período de Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná. Tenho formação técnica em Informática pelo Instituto Federal do Paraná, onde desenvolvi uma base sólida na área de tecnologia. Entre 2018 e 2022, trabalhei como auxiliar administrativo no laticínio Du'bom, adquirindo experiência em organização e gestão. Tenho conhecimentos em Java, C, Python, Dart e Flutter, além de experiência com Git e GitHub. Meu nível de inglês é intermediário, o que me ajuda na leitura e compreensão de materiais técnicos. Sou uma pessoa proativa, organizada e com facilidade para trabalhar em equipe. Estou sempre em busca de aprendizado e novos desafios na área de tecnologia.
